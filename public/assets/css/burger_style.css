@@ -1,0 +1,48 @@
+body {
+    background: #ccc038;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+h1 {
+    text-align: center;
+    font-family: Arial;
+    color: red;
+}
+
+.burgermenu, .devouredh2 {
+    font-family: Arial;
+    text-align: center;
+}
+.burger-menu, .devoured {
+    font-family: Arial;
+    text-align: center;
+    border-style: solid;
+    border-color: gray;
+    background: gray; 
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    padding: 20px;
+}
+
+.add-burger {
+    font-family: Arial;
+    text-align: center;
+}
+.create-form {
+    text-align: center;
+    font-family: Arial;
+    padding: 10px;
+}
+
+#button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
